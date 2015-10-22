@@ -1,0 +1,2 @@
+# Grid-High-Sum-search
+Program that allows users to enter dimensions of a grid to be randomly filled with numbers. Once grid is created, program searches through and determines which connected four elements have the greatest sum and what shape the four are in.
